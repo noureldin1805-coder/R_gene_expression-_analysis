@@ -1,0 +1,7 @@
+"Fold_Change" "Classification"
+"BRCA1" 1.71153846153846 "upregulated"
+"TP53" 0.974358974358974 "stable"
+"EGFR" 2.16129032258065 "upregulated"
+"MYC" 1.28723404255319 "upregulated"
+"PTEN" 0.383333333333333 "downregulated"
+"KRAS" 2.17777777777778 "upregulated"
